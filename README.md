@@ -13,7 +13,7 @@ Project is working file it's running video google drive link:
   
   <!--aloow full screen add tag -->
   
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/10JrQBj2ztNCTtoCSII6dbiqTxweN4AuY/view?usp=sharing" ></iframe>
 
 </body>
 </html>
