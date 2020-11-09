@@ -5,18 +5,7 @@ It's also have pyaudio function. so that we can make to speak anything while run
 
 Project is working file it's running video google drive link:
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/10JrQBj2ztNCTtoCSII6dbiqTxweN4AuY/view?usp=sharing" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/10JrQBj2ztNCTtoCSII6dbiqTxweN4AuY/view?usp=sharing" ></iframe>
-
-</body>
-</html>
+https://drive.google.com/file/d/10JrQBj2ztNCTtoCSII6dbiqTxweN4AuY/view?usp=sharing
 
 
 For Running this project we can open through cmd by calling testing.py or by direct clicking on testing.py will also open in cmd. Or through any text editor biscally it will works fine with idle of python. You can also try with other editor too but i am not sure about whether it will run on other editor or not. But Dont't worry it will work perfectfly on
