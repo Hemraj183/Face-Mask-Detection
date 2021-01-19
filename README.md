@@ -1,9 +1,9 @@
 # Face-Mask-Detection
 Masks should be used as part of a comprehensive strategy of measures to suppress transmission and save lives; the use of a mask alone is not sufficient to provide an adequate level of protection against COVID-19.So this project helps to detect whether the person is wearing Mask or not. We can use this in live cc camera video across the street. so that we can able to know who are putting mask. 
 
-It's also have pyaudio function. so that we can make to speak anything while running this project.
+It has pyaudio function. so it can speak anything while running this project.
 
-Project is working file it's running video google drive link:
+Project is working fine. The working video google drive link:
 
 https://drive.google.com/file/d/10JrQBj2ztNCTtoCSII6dbiqTxweN4AuY/view?usp=sharing
 
